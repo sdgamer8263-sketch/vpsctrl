@@ -1,4 +1,4 @@
-Vps_panels_menu() {
+vps_panels_menu() {
 
 while true; do
 clear
